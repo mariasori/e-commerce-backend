@@ -16,10 +16,10 @@ The purpose of this challenge was to build the back-end for an e-commerce websit
 - [Video-Walkthrough](#video-walkthrough)
  
 ## Installation
-It can be used after installing Node, Express, Sequelize, MySQL2, and dotenv.
+It can be used after installing Node.js, Express.js, Sequelize.  After connecting to the MySQL Shell and entering the password, source the schema.sql file.  Run `npm run seed` and then run `npm start`.
 
 ## Usage
-It can be used to manage employee/manager information.
+I can be used to view, add, update, and delete products, tags, and categories. 
 
 ## License
 This project is not covered by any open source license.  All rights are reserved.
@@ -34,3 +34,6 @@ There are no tests included for this project.
 Find me on GitHub: [mariasori](https://github.com/mariasori)
 <br />
 Email me with any questions: [mariasori87@gmail.com](mailto:mariasori87@gmail.com)
+
+## Video-Walkthrough
+
